@@ -1,7 +1,7 @@
 # Hi there, I'm trusdd 👋
 
 Welcome to my GitHub profile! I'm passionate about web development, programming, and databases.  
-I love learning new technologies and building cool projects.  
+I love learning new technologies and building interesting projects.  
 
 ---
 
