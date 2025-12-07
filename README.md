@@ -45,7 +45,7 @@ HTML &nbsp; <b>90%</b> <br>
 <div style="background-color:#ddd; width:100%; border-radius:5px;">
   <div style="width:90%; background-color:#e34c26; padding:3px 0; border-radius:5px;"></div>
 </div>
-CSS &nbsp; <b>65%</b> <br>
+CSS &nbsp; <b>75%</b> <br>
 <div style="background-color:#ddd; width:100%; border-radius:5px;">
   <div style="width:85%; background-color:#1572b6; padding:3px 0; border-radius:5px;"></div>
 </div>
@@ -62,6 +62,7 @@ SQL &nbsp; <b>15%</b> <br>
   <div style="width:65%; background-color:#4479a1; padding:3px 0; border-radius:5px;"></div>
 </div>
 </p>
+
 ---
 
 ## 💬 Connect with me
