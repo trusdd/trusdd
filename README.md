@@ -1,16 +1,91 @@
-## Hi there 👋
+# Hi there, I'm trusdd 👋
 
-<!--
-**trusdd/trusdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about web development, programming, and databases.  
+I love learning new technologies and building cool projects.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 📌 Currently learning cybersecurity and python.
+- 🧪 Studying python.
+- 💬 Ask me about metro 2033 and poetry.
+
+---
+
+## 🔐 Cybersecurity & Ethical Hacking Tech Stack
+
+### 🧠 Languages & Scripting
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
+
+---
+
+### 🖥 Systems & Environments
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-268BEE?logo=kalilinux&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?logo=virtualbox&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/-Windows_Terminal-4D4D4D?logo=windowsterminal&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-2CA5E0?logo=powershell&logoColor=white)
+
+## 🛠 Technologies & Skills
+
+### 💻 Frontend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+</p>
+
+### 🐍 Backend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
+</p>
+
+### ⚡️ Skill Progress
+<p>
+HTML &nbsp; <b>90%</b> <br>
+<div style="background-color:#ddd; width:100%; border-radius:5px;">
+  <div style="width:90%; background-color:#e34c26; padding:3px 0; border-radius:5px;"></div>
+</div>
+CSS &nbsp; <b>85%</b> <br>
+<div style="background-color:#ddd; width:100%; border-radius:5px;">
+  <div style="width:85%; background-color:#1572b6; padding:3px 0; border-radius:5px;"></div>
+</div>
+JavaScript &nbsp; <b>75%</b> <br>
+<div style="background-color:#ddd; width:100%; border-radius:5px;">
+  <div style="width:75%; background-color:#f7df1e; padding:3px 0; border-radius:5px;"></div>
+</div>
+Python &nbsp; <b>70%</b> <br>
+<div style="background-color:#ddd; width:100%; border-radius:5px;">
+  <div style="width:70%; background-color:#3776ab; padding:3px 0; border-radius:5px;"></div>
+</div>
+SQL &nbsp; <b>65%</b> <br>
+<div style="background-color:#ddd; width:100%; border-radius:5px;">
+  <div style="width:65%; background-color:#4479a1; padding:3px 0; border-radius:5px;"></div>
+</div>
+</p>
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=trusdd&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="trusdd's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trusdd&layout=compact&theme=radical" alt="trusdd's top languages"/>
+</p>
+
+---
+
+## 💬 Connect with me
+<p>
+  <a href="https://github.com/trusdd" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" alt="GitHub" width="30" height="30"/></a>
+  <a href="https://www.linkedin.com/in/trusdd" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/></a>
+  <a href="https://twitter.com/trusdd" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/twitter.svg" alt="Twitter" width="30" height="30"/></a>
+</p>
+
+---
+
+✨ Fun Fact: I turn coffee ☕️ into code 💻 and love solving challenges!
