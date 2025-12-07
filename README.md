@@ -1,6 +1,6 @@
 # Hi there, I'm trusdd 👋
 
-Welcome to my GitHub profile! I'm passionate about web development, programming, and databases.  
+Welcome to my GitHub profile! I'm passionate about web development and programming.  
 I love learning new technologies and building interesting projects.  
 
 ---
@@ -9,7 +9,7 @@ I love learning new technologies and building interesting projects.
 
 - 📌 Studying Frontend development.
 - 🛡️ Also learning cybersecurity and python.
-- 💬 Ask me about metro 2033 and poetry.
+- 💬 Ask me about supernatural and poetry.
 
 ---
 
