@@ -7,7 +7,8 @@ I love learning new technologies and building cool projects.
 
 ## About Me
 
-- 📌 Currently learning cybersecurity and python.
+- 📌 Studying Frontend development.
+- 🛡️ Also learning cybersecurity and python.
 - 🧪 Studying python.
 - 💬 Ask me about metro 2033 and poetry.
 
