@@ -51,19 +51,19 @@ HTML &nbsp; <b>90%</b> <br>
 <div style="background-color:#ddd; width:100%; border-radius:5px;">
   <div style="width:90%; background-color:#e34c26; padding:3px 0; border-radius:5px;"></div>
 </div>
-CSS &nbsp; <b>85%</b> <br>
+CSS &nbsp; <b>75%</b> <br>
 <div style="background-color:#ddd; width:100%; border-radius:5px;">
   <div style="width:85%; background-color:#1572b6; padding:3px 0; border-radius:5px;"></div>
 </div>
-JavaScript &nbsp; <b>75%</b> <br>
+JavaScript &nbsp; <b>35%</b> <br>
 <div style="background-color:#ddd; width:100%; border-radius:5px;">
   <div style="width:75%; background-color:#f7df1e; padding:3px 0; border-radius:5px;"></div>
 </div>
-Python &nbsp; <b>70%</b> <br>
+Python &nbsp; <b>20%</b> <br>
 <div style="background-color:#ddd; width:100%; border-radius:5px;">
   <div style="width:70%; background-color:#3776ab; padding:3px 0; border-radius:5px;"></div>
 </div>
-SQL &nbsp; <b>65%</b> <br>
+SQL &nbsp; <b>30%</b> <br>
 <div style="background-color:#ddd; width:100%; border-radius:5px;">
   <div style="width:65%; background-color:#4479a1; padding:3px 0; border-radius:5px;"></div>
 </div>
@@ -71,19 +71,10 @@ SQL &nbsp; <b>65%</b> <br>
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trusdd&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="trusdd's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trusdd&layout=compact&theme=radical" alt="trusdd's top languages"/>
-</p>
-
----
-
 ## 💬 Connect with me
 <p>
   <a href="https://github.com/trusdd" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" alt="GitHub" width="30" height="30"/></a>
-  <a href="https://www.linkedin.com/in/trusdd" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/></a>
-  <a href="https://twitter.com/trusdd" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/twitter.svg" alt="Twitter" width="30" height="30"/></a>
+  <a href="https://twitter.com/trusdd07" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/twitter.svg" alt="Twitter" width="30" height="30"/></a>
 </p>
 
 ---
