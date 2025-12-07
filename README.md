@@ -26,6 +26,8 @@ I love learning new technologies and building cool projects.
 ### 🖥 Systems & Environments
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-268BEE?logo=kalilinux&logoColor=white)
+![macOS](https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=ffffff)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=ffffff)
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?logo=virtualbox&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/-Windows_Terminal-4D4D4D?logo=windowsterminal&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-2CA5E0?logo=powershell&logoColor=white)
@@ -33,17 +35,9 @@ I love learning new technologies and building cool projects.
 ## 🛠 Technologies & Skills
 
 ### 💻 Frontend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-</p>
-
-### 🐍 Backend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
-</p>
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=ffffff)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000000)
 
 ### ⚡️ Skill Progress
 <p>
