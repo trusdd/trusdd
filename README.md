@@ -79,4 +79,4 @@ SQL &nbsp; <b>30%</b> <br>
 
 ---
 
-✨ Fun Fact: I turn coffee ☕️ into code 💻 and love solving challenges!
+✨ Fun Fact: I turn coffee ☕️ into code 💻 and love Harry Potter!
