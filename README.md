@@ -45,11 +45,11 @@ HTML &nbsp; <b>90%</b> <br>
 <div style="background-color:#ddd; width:100%; border-radius:5px;">
   <div style="width:90%; background-color:#e34c26; padding:3px 0; border-radius:5px;"></div>
 </div>
-CSS &nbsp; <b>75%</b> <br>
+CSS &nbsp; <b>65%</b> <br>
 <div style="background-color:#ddd; width:100%; border-radius:5px;">
   <div style="width:85%; background-color:#1572b6; padding:3px 0; border-radius:5px;"></div>
 </div>
-JavaScript &nbsp; <b>35%</b> <br>
+JavaScript &nbsp; <b>30%</b> <br>
 <div style="background-color:#ddd; width:100%; border-radius:5px;">
   <div style="width:75%; background-color:#f7df1e; padding:3px 0; border-radius:5px;"></div>
 </div>
@@ -57,12 +57,11 @@ Python &nbsp; <b>20%</b> <br>
 <div style="background-color:#ddd; width:100%; border-radius:5px;">
   <div style="width:70%; background-color:#3776ab; padding:3px 0; border-radius:5px;"></div>
 </div>
-SQL &nbsp; <b>30%</b> <br>
+SQL &nbsp; <b>15%</b> <br>
 <div style="background-color:#ddd; width:100%; border-radius:5px;">
   <div style="width:65%; background-color:#4479a1; padding:3px 0; border-radius:5px;"></div>
 </div>
 </p>
-
 ---
 
 ## 💬 Connect with me
