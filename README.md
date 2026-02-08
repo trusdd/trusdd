@@ -48,7 +48,7 @@ JavaScript &nbsp; <b>30%</b> <br>
 <div style="background-color:#ddd; width:100%; border-radius:5px;">
   <div style="width:75%; background-color:#f7df1e; padding:3px 0; border-radius:5px;"></div>
 </div>
-Swift &nbsp; <b>25%</b> <br>
+Swift &nbsp; <b>5%</b> <br>
 <div style="background-color:#ddd; width:100%; border-radius:5px;">
   <div style="width:70%; background-color:#FA7343; padding:3px 0; border-radius:5px;"></div>
 </div>
@@ -56,7 +56,7 @@ Python &nbsp; <b>20%</b> <br>
 <div style="background-color:#ddd; width:100%; border-radius:5px;">
   <div style="width:65%; background-color:#3776ab; padding:3px 0; border-radius:5px;"></div>
 </div>
-SQL &nbsp; <b>15%</b> <br>
+SQL &nbsp; <b>10%</b> <br>
 <div style="background-color:#ddd; width:100%; border-radius:5px;">
   <div style="width:60%; background-color:#4479a1; padding:3px 0; border-radius:5px;"></div>
 </div>
