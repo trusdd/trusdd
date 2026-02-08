@@ -14,7 +14,6 @@ I love learning new technologies and building interesting projects.
 ---
 
 ### 🖥 Systems & Environments
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-268BEE?logo=kalilinux&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=ffffff)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=ffffff)
