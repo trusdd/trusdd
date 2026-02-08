@@ -7,19 +7,9 @@ I love learning new technologies and building interesting projects.
 
 ## About Me
 
-- 📌 Studying Frontend development.
-- 🛡️ Also learning cybersecurity and python.
+- 📌 Frontend developer.
+- 💻 Also learning iOS development.
 - 💬 Ask me about supernatural and poetry.
-
----
-
-## 🔐 Cybersecurity & Ethical Hacking Tech Stack
-
-### 🧠 Languages & Scripting
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
 
 ---
 
