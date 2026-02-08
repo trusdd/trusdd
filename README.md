@@ -31,7 +31,7 @@ I love learning new technologies and building interesting projects.
 ### 📱 iOS Development
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=ffffff)
 ![Xcode](https://img.shields.io/badge/-Xcode-147EFB?logo=xcode&logoColor=ffffff)
-![](https://img.shields.io/badge/-iOS-000000?logo=ios&logoColor=ffffff)
+![iOS](https://img.shields.io/badge/-iOS-000000?logo=apple&logoColor=ffffff)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0085FF?logo=swift&logoColor=ffffff)
 
 ### ⚡️ Skill Progress
