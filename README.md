@@ -8,7 +8,7 @@ I love learning new technologies and building interesting projects.
 ## About Me
 
 - 📌 Frontend developer.
-- 💻 Also learning iOS development.
+- 📱 Also learning iOS development.
 - 💬 Ask me about supernatural and poetry.
 
 ---
@@ -28,6 +28,12 @@ I love learning new technologies and building interesting projects.
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000000)
 
+### 📱 iOS Development
+![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=ffffff)
+![Xcode](https://img.shields.io/badge/-Xcode-147EFB?logo=xcode&logoColor=ffffff)
+![iOS](https://img.shields.io/badge/-iOS-000000?logo=ios&logoColor=ffffff)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-0085FF?logo=swift&logoColor=ffffff)
+
 ### ⚡️ Skill Progress
 <p>
 HTML &nbsp; <b>90%</b> <br>
@@ -42,13 +48,17 @@ JavaScript &nbsp; <b>30%</b> <br>
 <div style="background-color:#ddd; width:100%; border-radius:5px;">
   <div style="width:75%; background-color:#f7df1e; padding:3px 0; border-radius:5px;"></div>
 </div>
+Swift &nbsp; <b>25%</b> <br>
+<div style="background-color:#ddd; width:100%; border-radius:5px;">
+  <div style="width:70%; background-color:#FA7343; padding:3px 0; border-radius:5px;"></div>
+</div>
 Python &nbsp; <b>20%</b> <br>
 <div style="background-color:#ddd; width:100%; border-radius:5px;">
-  <div style="width:70%; background-color:#3776ab; padding:3px 0; border-radius:5px;"></div>
+  <div style="width:65%; background-color:#3776ab; padding:3px 0; border-radius:5px;"></div>
 </div>
 SQL &nbsp; <b>15%</b> <br>
 <div style="background-color:#ddd; width:100%; border-radius:5px;">
-  <div style="width:65%; background-color:#4479a1; padding:3px 0; border-radius:5px;"></div>
+  <div style="width:60%; background-color:#4479a1; padding:3px 0; border-radius:5px;"></div>
 </div>
 </p>
 
