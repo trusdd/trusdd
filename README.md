@@ -5,6 +5,19 @@ I love learning new technologies and building interesting projects.
 
 ---
 
+## 💻 My Projects / Live Sites
+
+| Project | Description | Live Demo |
+|---------|-------------|-----------|
+| ArtPhone | A visually creative frontend project | [View Site](https://trusdd.github.io/ArtPhone/) |
+| Quotes | Random quotes generator with stylish design | [View Site](https://trusdd.github.io/Quotes/) |
+| Cosmos- | Space-themed interactive page | [View Site](https://trusdd.github.io/Cosmos-/) |
+| Skillbox | Skillbox course practice project | [View Site](https://trusdd.github.io/skillbox/) |
+
+> ⚡ Tip: Click on View Site to open the project directly in your browser.
+
+---
+
 ## About Me
 
 - 📌 Frontend developer.
