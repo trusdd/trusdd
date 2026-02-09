@@ -9,9 +9,9 @@ I love learning new technologies and building interesting projects.
 
 | Project | Description | Live Demo |
 |---------|-------------|-----------|
-| ArtPhone | A visually creative frontend project | [View Site](https://trusdd.github.io/ArtPhone/) |
-| Quotes | Random quotes generator with stylish design | [View Site](https://trusdd.github.io/Quotes/) |
 | Space | Space-themed interactive page | [View Site](https://trusdd.github.io/Space/) |
+| Quotes | Random quotes generator with stylish design | [View Site](https://trusdd.github.io/Quotes/) |
+| ArtPhone | A visually creative frontend project | [View Site](https://trusdd.github.io/ArtPhone/) |
 | Skillbox | Skillbox course practice project | [View Site](https://trusdd.github.io/skillbox/) |
 
 > ⚡ Tip: Click on View Site to open the project directly in your browser.
