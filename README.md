@@ -66,10 +66,9 @@ SQL &nbsp; <b>10%</b> <br>
 
 ## 🚀 Live Demo
 https://trusdd.github.io/ArtPhone/
-https://username.github.io/Quotes/
-https://username.github.io/Cosmos-/
-https://username.github.io/Skillbox/
----
+https://trusdd.github.io/Quotes/
+https://trusdd.github.io/Cosmos-/
+https://trusdd.github.io/Skillbox/
 
 ## 💬 Connect with me
 <p>
