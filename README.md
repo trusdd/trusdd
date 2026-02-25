@@ -10,8 +10,8 @@ I love learning new technologies and building interesting projects.
 | Project | Description | Live Demo |
 |---------|-------------|-----------|
 | Metro 2033 | Secret computer | [View Site](https://trusdd.github.io/Metro-2033/) | 
-| Space | Space-themed interactive site | [View Site](https://trusdd.github.io/Space/) |
 | Сitation | Quotes from great people | [View Site](https://trusdd.github.io/citation/) |
+| Space | Space-themed interactive site | [View Site](https://trusdd.github.io/Space/) |
 | ArtPhone | Online iPhone store | [View Site](https://trusdd.github.io/ArtPhone/) |
 | Skillbox | Skillbox course practice project | [View Site](https://trusdd.github.io/skillbox/) |
 
