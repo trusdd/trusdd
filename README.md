@@ -9,10 +9,10 @@ I love learning new technologies and building interesting projects.
 
 | Project | Description | Live Demo |
 |---------|-------------|-----------|
+| ArtPhone | Online iPhone store | [View Site](https://trusdd.github.io/ArtPhone/) |
 | Metro 2033 | Secret computer | [View Site](https://trusdd.github.io/Metro-2033/) | 
 | Сitation | Quotes from great people | [View Site](https://trusdd.github.io/citation/) |
 | Space | Space-themed interactive site | [View Site](https://trusdd.github.io/Space/) |
-| ArtPhone | Online iPhone store | [View Site](https://trusdd.github.io/ArtPhone/) |
 
 > ⚡ Tip: Click on View Site to open the project directly in your browser.
 
@@ -57,7 +57,7 @@ CSS &nbsp; <b>85%</b> <br>
 <div style="background-color:#ddd; width:100%; border-radius:5px;">
   <div style="width:85%; background-color:#1572b6; padding:3px 0; border-radius:5px;"></div>
 </div>
-JavaScript &nbsp; <b>40%</b> <br>
+JavaScript &nbsp; <b>60%</b> <br>
 <div style="background-color:#ddd; width:100%; border-radius:5px;">
   <div style="width:75%; background-color:#f7df1e; padding:3px 0; border-radius:5px;"></div>
 </div>
