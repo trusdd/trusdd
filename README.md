@@ -9,7 +9,7 @@ I love learning new technologies and building interesting projects.
 
 | Project | Description | Live Demo |
 |---------|-------------|-----------|
-| ArtPhone | Online iPhone store | [View Site](https://trusdd.github.io/ArtPhone/) |
+| ArtPhone | Online iPhone store | [View Site](https://trusdd.github.io/artphone-frontend/) |
 | Metro 2033 | Secret computer | [View Site](https://trusdd.github.io/Metro-2033/) | 
 | Сitation | Quotes from great people | [View Site](https://trusdd.github.io/citation/) |
 | Space | Space-themed interactive site | [View Site](https://trusdd.github.io/Space/) |
