@@ -21,7 +21,7 @@ I love learning new technologies and building interesting projects.
 ## About Me
 
 - 📌 Frontend developer.
-- 📱 Also learning iOS development.
+- 💻 Also learning Backend development.
 - 💬 Ask me about supernatural and poetry.
 
 ---
@@ -41,11 +41,11 @@ I love learning new technologies and building interesting projects.
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000000)
 
-### 📱 iOS Development
-![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=ffffff)
-![Xcode](https://img.shields.io/badge/-Xcode-147EFB?logo=xcode&logoColor=ffffff)
-![iOS](https://img.shields.io/badge/-iOS-000000?logo=apple&logoColor=ffffff)
-![SwiftUI](https://img.shields.io/badge/-SwiftUI-0085FF?logo=swift&logoColor=ffffff)
+### ⚙️ Backend Development
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=ffffff)
 
 ### ⚡️ Skill Progress
 <p>
@@ -61,9 +61,13 @@ JavaScript &nbsp; <b>60%</b> <br>
 <div style="background-color:#ddd; width:100%; border-radius:5px;">
   <div style="width:75%; background-color:#f7df1e; padding:3px 0; border-radius:5px;"></div>
 </div>
-Swift &nbsp; <b>5%</b> <br>
+Node.js &nbsp; <b>80%</b> <br>
 <div style="background-color:#ddd; width:100%; border-radius:5px;">
-  <div style="width:70%; background-color:#FA7343; padding:3px 0; border-radius:5px;"></div>
+  <div style="width:80%; background-color:#339933; padding:3px 0; border-radius:5px;"></div>
+</div>
+TypeScript &nbsp; <b>70%</b> <br>
+<div style="background-color:#ddd; width:100%; border-radius:5px;">
+  <div style="width:70%; background-color:#3178C6; padding:3px 0; border-radius:5px;"></div>
 </div>
 Python &nbsp; <b>20%</b> <br>
 <div style="background-color:#ddd; width:100%; border-radius:5px;">
@@ -81,8 +85,9 @@ SQL &nbsp; <b>10%</b> <br>
 <p>
   <a href="https://github.com/trusdd" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" alt="GitHub" width="30" height="30"/></a>
   <a href="https://twitter.com/trusdd07" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/twitter.svg" alt="Twitter" width="30" height="30"/></a>
+  <a href="https://t.me/trusdd" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/telegram.svg" alt="Telegram" width="30" height="30"/></a>
 </p>
 
 ---
 
-✨ Fun Fact: I turn coffee ☕️ into code 💻 and love Harry Potter!
+✨ Fun Fact: I can debug anything with a cup of tea and good music 🎧
