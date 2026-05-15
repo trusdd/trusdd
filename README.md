@@ -83,7 +83,7 @@ SQL &nbsp; <b>10%</b> <br>
 
 ## 💬 Connect with me
 <p>
-  <a href="https://t.me/trusdd" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/telegram.svg" alt="Telegram" width="30" height="30"/></a>
+<a href="https://t.me/trusdd" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="30"/></a>
 </p>
 
 ---
