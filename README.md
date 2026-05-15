@@ -83,8 +83,6 @@ SQL &nbsp; <b>10%</b> <br>
 
 ## 💬 Connect with me
 <p>
-  <a href="https://github.com/trusdd" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" alt="GitHub" width="30" height="30"/></a>
-  <a href="https://twitter.com/trusdd07" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/twitter.svg" alt="Twitter" width="30" height="30"/></a>
   <a href="https://t.me/trusdd" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/telegram.svg" alt="Telegram" width="30" height="30"/></a>
 </p>
 
