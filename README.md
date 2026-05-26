@@ -52,25 +52,25 @@ I love learning new technologies and building interesting projects.
 
 ### ⚡️ Skill Progress
 <p>
-HTML &nbsp; <b>90%</b> <br>
+HTML &nbsp; <b>95%</b> <br>
 <div style="background-color:#ddd; width:100%; border-radius:5px;">
-  <div style="width:90%; background-color:#e34c26; padding:3px 0; border-radius:5px;"></div>
+  <div style="width:95%; background-color:#e34c26; padding:3px 0; border-radius:5px;"></div>
 </div>
 CSS &nbsp; <b>85%</b> <br>
 <div style="background-color:#ddd; width:100%; border-radius:5px;">
   <div style="width:85%; background-color:#1572b6; padding:3px 0; border-radius:5px;"></div>
 </div>
-JavaScript &nbsp; <b>60%</b> <br>
+JavaScript &nbsp; <b>65%</b> <br>
 <div style="background-color:#ddd; width:100%; border-radius:5px;">
-  <div style="width:75%; background-color:#f7df1e; padding:3px 0; border-radius:5px;"></div>
+  <div style="width:65%; background-color:#f7df1e; padding:3px 0; border-radius:5px;"></div>
 </div>
-Node.js &nbsp; <b>80%</b> <br>
+Node.js &nbsp; <b>70%</b> <br>
 <div style="background-color:#ddd; width:100%; border-radius:5px;">
-  <div style="width:80%; background-color:#339933; padding:3px 0; border-radius:5px;"></div>
+  <div style="width:70%; background-color:#339933; padding:3px 0; border-radius:5px;"></div>
 </div>
-SQL &nbsp; <b>10%</b> <br>
+SQL &nbsp; <b>40%</b> <br>
 <div style="background-color:#ddd; width:100%; border-radius:5px;">
-  <div style="width:60%; background-color:#4479a1; padding:3px 0; border-radius:5px;"></div>
+  <div style="width:40%; background-color:#4479a1; padding:3px 0; border-radius:5px;"></div>
 </div>
 Java &nbsp; <b>30%</b> (actively learning!) <br>
 <div style="background-color:#ddd; width:100%; border-radius:5px;">
