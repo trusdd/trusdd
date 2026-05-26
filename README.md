@@ -32,7 +32,7 @@
 
 ## 🐍 My Contribution Snake
 
-![snake](https://github.com/trusdd/trusdd/blob/output/snake.svg?raw=true)
+![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ---
 
