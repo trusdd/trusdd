@@ -72,7 +72,7 @@ SQL &nbsp; <b>10%</b> <br>
 <div style="background-color:#ddd; width:100%; border-radius:5px;">
   <div style="width:60%; background-color:#4479a1; padding:3px 0; border-radius:5px;"></div>
 </div>
-☕ Java &nbsp; <b>30%</b> (actively learning!) <br>
+Java &nbsp; <b>30%</b> (actively learning!) <br>
 <div style="background-color:#ddd; width:100%; border-radius:5px;">
   <div style="width:30%; background-color:#007396; padding:3px 0; border-radius:5px;"></div>
 </div>
