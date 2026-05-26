@@ -20,7 +20,7 @@ I love learning new technologies and building interesting projects.
 
 ## About Me
 
-- 📌 Frontend developer. Focused on building clean and scalable UIs. Exploring modern web technologies & actively learning Java.
+- 📌 Frontend developer. 
 - 💻 Also learning Backend development.
 - ☕ Currently diving into Java.
 - 💬 Ask me about supernatural and poetry.
@@ -44,7 +44,7 @@ I love learning new technologies and building interesting projects.
 
 ### ⚙️ Backend Development
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=ffffff)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000000)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=ffffff)
 
 ### 🌱 Currently Learning
@@ -67,10 +67,6 @@ JavaScript &nbsp; <b>60%</b> <br>
 Node.js &nbsp; <b>80%</b> <br>
 <div style="background-color:#ddd; width:100%; border-radius:5px;">
   <div style="width:80%; background-color:#339933; padding:3px 0; border-radius:5px;"></div>
-</div>
-Python &nbsp; <b>20%</b> <br>
-<div style="background-color:#ddd; width:100%; border-radius:5px;">
-  <div style="width:65%; background-color:#3776ab; padding:3px 0; border-radius:5px;"></div>
 </div>
 SQL &nbsp; <b>10%</b> <br>
 <div style="background-color:#ddd; width:100%; border-radius:5px;">
