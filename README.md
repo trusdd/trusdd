@@ -18,9 +18,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://stats.dooboo.io/api/github-stats?username=trusdd&theme=dark" />
+  <img src="https://gh-readme-stats.vercel.app/api?username=trusdd&show_icons=true&theme=tokyonight" />
   <br><br>
-  <img src="https://stats.dooboo.io/api/github-top-langs?username=trusdd&theme=dark&langs_count=6" />
+  <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=trusdd&layout=compact&theme=tokyonight" />
 </div>
 
 </div>
