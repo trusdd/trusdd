@@ -6,31 +6,10 @@
 
 ## 💻 My Projects / Live Sites
 
-<div align="center">
-
-### 📱 ArtPhone
-**Online Apple store** — современный лендинг интернет-магазина  
-[🔗 Посмотреть сайт](https://trusdd.github.io/artphone-frontend/)
-
----
-
-### 🚇 Metro 2033
-**Secret computer** — тематический сайт по вселенной Metro  
-[🔗 Посмотреть сайт](https://trusdd.github.io/Metro-2033/)
-
----
-
-### 💬 Citation
-**Quotes from great people** — коллекция вдохновляющих цитат  
-[🔗 Посмотреть сайт](https://trusdd.github.io/citation/)
-
----
-
-### 🪐 Space
-**Space-themed interactive site** — интерактивный космический сайт  
-[🔗 Посмотреть сайт](https://trusdd.github.io/Space/)
-
-</div>
+[![ArtPhone](https://img.shields.io/badge/🎧-ArtPhone-007aff?style=for-the-badge)](https://trusdd.github.io/artphone-frontend/)
+[![Metro 2033](https://img.shields.io/badge/🚇-Metro_2033-ff4444?style=for-the-badge)](https://trusdd.github.io/Metro-2033/)
+[![Citation](https://img.shields.io/badge/💬-Citation-44cc44?style=for-the-badge)](https://trusdd.github.io/citation/)
+[![Space](https://img.shields.io/badge/🪐-Space-aa44ff?style=for-the-badge)](https://trusdd.github.io/Space/)
 
 ---
 
