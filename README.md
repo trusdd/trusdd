@@ -18,11 +18,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Репозитории](https://img.shields.io/badge/📁_Репозитории-6-blue?style=for-the-badge)
-![Коммиты](https://img.shields.io/badge/📅_Коммитов_2025-в_процессе-ff69b4?style=for-the-badge)
-![Java](https://img.shields.io/badge/☕_Изучаю-Java-orange?style=for-the-badge)
-![Frontend](https://img.shields.io/badge/🎨_Frontend-HTML/CSS/JS-green?style=for-the-badge)
+  <img src="https://stats.dooboo.io/api/github-stats?username=trusdd&theme=dark" />
+  <br><br>
+  <img src="https://stats.dooboo.io/api/github-top-langs?username=trusdd&theme=dark&langs_count=6" />
+</div>
 
 </div>
 
