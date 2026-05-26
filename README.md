@@ -1,28 +1,31 @@
-# Hi there, I'm trusdd 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=trusdd&fontSize=80&fontAlignY=35&animation=fadeIn&desc=Frontend%20Developer%20%7C%20Java%20Enthusiast&descAlignY=55" />
 
-Welcome to my GitHub profile! I'm passionate about web development and programming.  
-I love learning new technologies and building interesting projects.  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Welcome+to+my+GitHub!;Frontend+Developer;Actively+learning+Java;Building+clean+%26+scalable+UIs" alt="Typing SVG" />
 
 ---
 
 ## 💻 My Projects / Live Sites
 
-| Project | Description | Live Demo |
-|---------|-------------|-----------|
-| ArtPhone | Online Apple store | [View Site](https://trusdd.github.io/artphone-frontend/) |
-| Metro 2033 | Secret computer | [View Site](https://trusdd.github.io/Metro-2033/) | 
-| Сitation | Quotes from great people | [View Site](https://trusdd.github.io/citation/) |
-| Space | Space-themed interactive site | [View Site](https://trusdd.github.io/Space/) |
-
-> ⚡ Tip: Click on View Site to open the project directly in your browser.
+<a href="https://trusdd.github.io/artphone-frontend/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=trusdd&repo=artphone-frontend&theme=tokyonight" />
+</a>
+<a href="https://trusdd.github.io/Metro-2033/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=trusdd&repo=Metro-2033&theme=tokyonight" />
+</a>
+<a href="https://trusdd.github.io/citation/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=trusdd&repo=citation&theme=tokyonight" />
+</a>
+<a href="https://trusdd.github.io/Space/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=trusdd&repo=Space&theme=tokyonight" />
+</a>
 
 ---
 
 ## About Me
 
-- 📌 Frontend developer. 
-- 💻 Also learning Backend development.
-- ☕ Currently diving into Java.
+- 📌 Frontend developer. Focused on building clean and scalable UIs.
+- 💻 Also learning Backend development (Node.js, SQL).
+- ☕ Currently diving into **Java**.
 - 💬 Ask me about supernatural and poetry.
 
 ---
@@ -88,3 +91,5 @@ Java &nbsp; <b>30%</b> (actively learning!) <br>
 ---
 
 ✨ Fun Fact: I can debug anything with a cup of tea and good music 🎧
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
