@@ -32,7 +32,7 @@
 
 ## 🐍 My Contribution Snake
 
-<img src="https://raw.githubusercontent.com/trusdd/trusdd/output/github-contribution-grid-snake.svg" />
+![snake](https://github.com/trusdd/trusdd/blob/output/snake.svg?raw=true)
 
 ---
 
