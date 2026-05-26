@@ -6,12 +6,50 @@
 
 ## 💻 My Projects / Live Sites
 
-| 🖥️ Проект | 📝 Описание | 🔗 Ссылка |
-|-----------|-------------|-----------|
-| **ArtPhone** | Online Apple store | [View →](https://trusdd.github.io/artphone-frontend/) |
-| **Metro 2033** | Secret computer | [View →](https://trusdd.github.io/Metro-2033/) |
-| **Citation** | Quotes from great people | [View →](https://trusdd.github.io/citation/) |
-| **Space** | Space-themed interactive site | [View →](https://trusdd.github.io/Space/) |
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://trusdd.github.io/artphone-frontend/">
+          <img src="https://img.shields.io/badge/ArtPhone-Online_Apple_Store-007aff?style=for-the-badge&logo=apple&logoColor=white" width="280"><br>
+          <img src="https://via.placeholder.com/400x200/1a1a2e/white?text=📱+iPhone+Store" width="280" style="border-radius: 12px;">
+        </a>
+        <br>
+        <b>ArtPhone</b><br>
+        <sub>Интернет-магазин техники Apple</sub>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://trusdd.github.io/Metro-2033/">
+          <img src="https://img.shields.io/badge/Metro_2033-Secret_Computer-ff4444?style=for-the-badge&logo=steam&logoColor=white" width="280"><br>
+          <img src="https://via.placeholder.com/400x200/1a1a2e/white?text=🚇+Metro+2033" width="280" style="border-radius: 12px;">
+        </a>
+        <br>
+        <b>Metro 2033</b><br>
+        <sub>Тематический сайт по вселенной Metro</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://trusdd.github.io/citation/">
+          <img src="https://img.shields.io/badge/Citation-Quotes-44cc44?style=for-the-badge&logo=quote&logoColor=white" width="280"><br>
+          <img src="https://via.placeholder.com/400x200/1a1a2e/white?text=💬+Цитаты+великих" width="280" style="border-radius: 12px;">
+        </a>
+        <br>
+        <b>Citation</b><br>
+        <sub>Коллекция вдохновляющих цитат</sub>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://trusdd.github.io/Space/">
+          <img src="https://img.shields.io/badge/Space-Space_Theme-aa44ff?style=for-the-badge&logo=spacex&logoColor=white" width="280"><br>
+          <img src="https://via.placeholder.com/400x200/1a1a2e/white?text=🪐+Космический+сайт" width="280" style="border-radius: 12px;">
+        </a>
+        <br>
+        <b>Space</b><br>
+        <sub>Интерактивный космический сайт</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
