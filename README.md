@@ -6,10 +6,12 @@
 
 ## 💻 My Projects / Live Sites
 
-[![ArtPhone](https://img.shields.io/badge/🎧-ArtPhone-007aff?style=for-the-badge)](https://trusdd.github.io/artphone-frontend/)
-[![Metro 2033](https://img.shields.io/badge/🚇-Metro_2033-ff4444?style=for-the-badge)](https://trusdd.github.io/Metro-2033/)
-[![Citation](https://img.shields.io/badge/💬-Citation-44cc44?style=for-the-badge)](https://trusdd.github.io/citation/)
-[![Space](https://img.shields.io/badge/🪐-Space-aa44ff?style=for-the-badge)](https://trusdd.github.io/Space/)
+| 🖥️ Проект | 📝 Описание | 🔗 Ссылка |
+|-----------|-------------|-----------|
+| **ArtPhone** | Online Apple store | [View →](https://trusdd.github.io/artphone-frontend/) |
+| **Metro 2033** | Secret computer | [View →](https://trusdd.github.io/Metro-2033/) |
+| **Citation** | Quotes from great people | [View →](https://trusdd.github.io/citation/) |
+| **Space** | Space-themed interactive site | [View →](https://trusdd.github.io/Space/) |
 
 ---
 
