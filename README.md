@@ -20,8 +20,9 @@ I love learning new technologies and building interesting projects.
 
 ## About Me
 
-- 📌 Frontend developer.
+- 📌 Frontend developer. Focused on building clean and scalable UIs. Exploring modern web technologies & actively learning Java.
 - 💻 Also learning Backend development.
+- ☕ Currently diving into Java.
 - 💬 Ask me about supernatural and poetry.
 
 ---
@@ -46,6 +47,9 @@ I love learning new technologies and building interesting projects.
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=ffffff)
+
+### 🌱 Currently Learning
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=ffffff)
 
 ### ⚡️ Skill Progress
 <p>
@@ -76,6 +80,10 @@ Python &nbsp; <b>20%</b> <br>
 SQL &nbsp; <b>10%</b> <br>
 <div style="background-color:#ddd; width:100%; border-radius:5px;">
   <div style="width:60%; background-color:#4479a1; padding:3px 0; border-radius:5px;"></div>
+</div>
+Java &nbsp; <b>15%</b> (actively learning!) <br>
+<div style="background-color:#ddd; width:100%; border-radius:5px;">
+  <div style="width:30%; background-color:#007396; padding:3px 0; border-radius:5px;"></div>
 </div>
 </p>
 
