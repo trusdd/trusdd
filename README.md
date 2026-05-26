@@ -44,7 +44,6 @@ I love learning new technologies and building interesting projects.
 
 ### ⚙️ Backend Development
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=ffffff)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=ffffff)
 
@@ -69,10 +68,6 @@ Node.js &nbsp; <b>80%</b> <br>
 <div style="background-color:#ddd; width:100%; border-radius:5px;">
   <div style="width:80%; background-color:#339933; padding:3px 0; border-radius:5px;"></div>
 </div>
-TypeScript &nbsp; <b>70%</b> <br>
-<div style="background-color:#ddd; width:100%; border-radius:5px;">
-  <div style="width:70%; background-color:#3178C6; padding:3px 0; border-radius:5px;"></div>
-</div>
 Python &nbsp; <b>20%</b> <br>
 <div style="background-color:#ddd; width:100%; border-radius:5px;">
   <div style="width:65%; background-color:#3776ab; padding:3px 0; border-radius:5px;"></div>
@@ -81,7 +76,7 @@ SQL &nbsp; <b>10%</b> <br>
 <div style="background-color:#ddd; width:100%; border-radius:5px;">
   <div style="width:60%; background-color:#4479a1; padding:3px 0; border-radius:5px;"></div>
 </div>
-Java &nbsp; <b>15%</b> (actively learning!) <br>
+☕ Java &nbsp; <b>30%</b> (actively learning!) <br>
 <div style="background-color:#ddd; width:100%; border-radius:5px;">
   <div style="width:30%; background-color:#007396; padding:3px 0; border-radius:5px;"></div>
 </div>
