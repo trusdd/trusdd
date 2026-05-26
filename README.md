@@ -6,18 +6,12 @@
 
 ## 💻 My Projects / Live Sites
 
-<a href="https://trusdd.github.io/artphone-frontend/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=trusdd&repo=artphone-frontend&theme=tokyonight" />
-</a>
-<a href="https://trusdd.github.io/Metro-2033/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=trusdd&repo=Metro-2033&theme=tokyonight" />
-</a>
-<a href="https://trusdd.github.io/citation/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=trusdd&repo=citation&theme=tokyonight" />
-</a>
-<a href="https://trusdd.github.io/Space/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=trusdd&repo=Space&theme=tokyonight" />
-</a>
+| Project | Description | Live Demo |
+|---------|-------------|-----------|
+| ArtPhone | Online Apple store | [View Site](https://trusdd.github.io/artphone-frontend/) |
+| Metro 2033 | Secret computer | [View Site](https://trusdd.github.io/Metro-2033/) | 
+| Citation | Quotes from great people | [View Site](https://trusdd.github.io/citation/) |
+| Space | Space-themed interactive site | [View Site](https://trusdd.github.io/Space/) |
 
 ---
 
