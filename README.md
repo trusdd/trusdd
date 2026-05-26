@@ -18,9 +18,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trusdd&show_icons=true&theme=radical&hide=prs&count_private=false" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trusdd&layout=compact&theme=radical" />
+
+![Репозитории](https://img.shields.io/badge/📁_Репозитории-6-blue?style=for-the-badge)
+![Коммиты](https://img.shields.io/badge/📅_Коммитов_2025-в_процессе-ff69b4?style=for-the-badge)
+![Java](https://img.shields.io/badge/☕_Изучаю-Java-orange?style=for-the-badge)
+![Frontend](https://img.shields.io/badge/🎨_Frontend-HTML/CSS/JS-green?style=for-the-badge)
+
 </div>
 
 ---
