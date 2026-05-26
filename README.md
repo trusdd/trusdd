@@ -21,6 +21,21 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=trusdd&show_icons=true&theme=tokyonight&hide=contribs&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trusdd&layout=compact&theme=tokyonight&langs_count=6" />
+</div>
+
+---
+
+## 🐍 My Contribution Snake
+
+<img src="https://raw.githubusercontent.com/trusdd/trusdd/output/github-contribution-grid-snake.svg" />
+
+---
+
 ## About Me
 
 - 📌 Frontend developer. Focused on building clean and scalable UIs.
