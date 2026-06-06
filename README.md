@@ -99,8 +99,14 @@ Java &nbsp; <b>30%</b> (actively learning!) <br>
 ---
 
 ## 💬 Connect with me
+
 <p>
-<a href="https://t.me/trusdd" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="30"/></a>
+  <a href="https://t.me/trusdd" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="30"/>
+  </a>
+  <a href="https://www.linkedin.com/in/artem-frontend-java" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
+  </a>
 </p>
 
 ---
