@@ -8,6 +8,7 @@
 
 | Project | Description | Live Demo |
 |---------|-------------|-----------|
+| 👕 **Vogue Studio** | Minimalist fashion store — FW 2026 collection | [View Site →](https://trusdd.github.io/vogue-store/) |
 | 📱 **ArtPhone** | Online Apple store | [View Site →](https://trusdd.github.io/artphone-frontend/) |
 | 🚇 **Metro 2033** | Secret computer | [View Site →](https://trusdd.github.io/Metro-2033/) |
 | 💬 **Citation** | Quotes from great people | [View Site →](https://trusdd.github.io/citation/) |
