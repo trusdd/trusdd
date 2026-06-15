@@ -37,12 +37,13 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me — Software Engineering Path
 
-- 📌 Frontend developer. Focused on building clean and scalable UIs.
-- 💻 Also learning Backend development (Node.js, SQL).
-- ☕ Currently diving into **Java** (OOP, algorithms, backend architecture).
-- 💬 Ask me about supernatural and poetry.
+- 📌 **Frontend developer** with a focus on clean, scalable interfaces.
+- ☕ **Deepening Java** — OOP, algorithms, data structures, backend architecture.
+- 🧠 Moving from "making it work" to **building systems that last**.
+- 🛠 Also experienced with Node.js, SQL, REST APIs.
+- 💬 Ask me about frontend, Java journey, supernatural, poetry.
 
 ---
 
