@@ -1,102 +1,73 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=trusdd&fontSize=80&fontAlignY=35&animation=fadeIn&desc=Software%20Engineer%20%7C%20Frontend%20Expert&descAlignY=55" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&deleteSpeed=200&width=500&lines=Frontend+Developer;Learning+Java;Clean+UIs&speed=70" alt="Typing SVG" />
-
----
-
-## 💻 My Projects / Live Sites
-
-| Project | Description | Live Demo |
-|---------|-------------|-----------|
-| 👕 **Vogue Studio** | Minimalist fashion store — FW 2026 collection | [View Site →](https://trusdd.github.io/vogue-store/) |
-| 📱 **ArtPhone** | Online Apple store | [View Site →](https://trusdd.github.io/artphone-frontend/) |
-| 📊 **Analytics Dashboard** | Real-time business metrics & admin panel | [View Site →](https://trusdd.github.io/dashboard/) |
-| 💬 **Citation** | Quotes from great people | [View Site →](https://trusdd.github.io/citation/) |
-
----
-
-## 📊 Most Used Languages
-
-<div align="center">
-  <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=trusdd&layout=compact&theme=tokyonight" />
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trusdd&theme=radical" />
-</div>
-
----
-
-## 🐍 My Contribution Snake
-
-![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&deleteSpeed=300&width=500&lines=Frontend+Developer;Deepening+Java+%26+Backend;Clean+UI+%2B+Solid+Logic&speed=70" alt="Typing SVG" />
 
 ---
 
 ## 👨‍💻 About Me — Software Engineering Path
 
-- 📌 **Frontend developer** with a focus on clean, scalable interfaces.
-- ☕ **Deepening Java** — OOP, algorithms, data structures, backend architecture.
-- 🧠 Moving from "making it work" to **building systems that last**.
-- 🛠 Also experienced with Node.js, SQL, REST APIs.
-- 💬 Ask me about frontend, Java journey, supernatural, poetry.
+- 📌 **Frontend developer** with a focus on clean, scalable interfaces  
+- ☕ **Deepening Java** — OOP, algorithms, data structures, backend architecture  
+- 🧠 Moving from *"making it work"* → **building systems that last**  
+- 🛠 Also experienced with **Node.js, SQL, REST APIs**  
+- 💬 Ask me about frontend, Java journey, supernatural, poetry  
 
 ---
 
-### 🖥 Systems & Environments
-![Kali Linux](https://img.shields.io/badge/-Kali_Linux-268BEE?logo=kalilinux&logoColor=white)
-![macOS](https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=ffffff)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=ffffff)
-![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?logo=virtualbox&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/-Windows_Terminal-4D4D4D?logo=windowsterminal&logoColor=white)
-![PowerShell](https://img.shields.io/badge/-PowerShell-2CA5E0?logo=powershell&logoColor=white)
-
 ## 🛠 Technologies & Skills
 
-### 💻 Frontend
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=ffffff)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000000)
+### 💻 Frontend (solid)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-### ⚙️ Backend Development
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000000)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=ffffff)
+### ⚙️ Backend / Software (in progress)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
 
 ### 🌱 Currently Learning
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 
 ### ⚡️ Skill Progress
-<p>
-HTML &nbsp; <b>95%</b> <br>
-<div style="background-color:#ddd; width:100%; border-radius:5px;">
-  <div style="width:95%; background-color:#e34c26; padding:3px 0; border-radius:5px;"></div>
+
+**HTML** ▰▰▰▰▰▰▰▰▰▰ 95%  
+**CSS**  ▰▰▰▰▰▰▰▰▰   85%  
+**JavaScript** ▰▰▰▰▰▰▰    65%  
+**Node.js**   ▰▰▰▰▰▰▰    70%  
+**SQL**       ▰▰▰▰        40%  
+**Java**      ▰▰▰         30% (active learning)
+
+---
+
+## 💻 Projects That Prove It
+
+| Project | Description | Live Demo |
+|---------|-------------|-----------|
+| 👕 **Vogue Studio** | Minimalist fashion store — FW 2026 collection | [View →](https://trusdd.github.io/vogue-store/) |
+| 📱 **ArtPhone** | Online Apple store | [View →](https://trusdd.github.io/artphone-frontend/) |
+| 📊 **Analytics Dashboard** | Real‑time business metrics & admin panel | [View →](https://trusdd.github.io/dashboard/) |
+| 💬 **Citation** | Quotes from great people | [View →](https://trusdd.github.io/citation/) |
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+### Most Used Languages
+
+<img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=trusdd&layout=compact&theme=tokyonight" />
+
+### Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=trusdd&theme=radical" />
+
+### Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
 </div>
-CSS &nbsp; <b>85%</b> <br>
-<div style="background-color:#ddd; width:100%; border-radius:5px;">
-  <div style="width:85%; background-color:#1572b6; padding:3px 0; border-radius:5px;"></div>
-</div>
-JavaScript &nbsp; <b>65%</b> <br>
-<div style="background-color:#ddd; width:100%; border-radius:5px;">
-  <div style="width:65%; background-color:#f7df1e; padding:3px 0; border-radius:5px;"></div>
-</div>
-Node.js &nbsp; <b>70%</b> <br>
-<div style="background-color:#ddd; width:100%; border-radius:5px;">
-  <div style="width:70%; background-color:#339933; padding:3px 0; border-radius:5px;"></div>
-</div>
-SQL &nbsp; <b>40%</b> <br>
-<div style="background-color:#ddd; width:100%; border-radius:5px;">
-  <div style="width:40%; background-color:#4479a1; padding:3px 0; border-radius:5px;"></div>
-</div>
-Java &nbsp; <b>30%</b> (actively learning!) <br>
-<div style="background-color:#ddd; width:100%; border-radius:5px;">
-  <div style="width:30%; background-color:#007396; padding:3px 0; border-radius:5px;"></div>
-</div>
-</p>
 
 ---
 
