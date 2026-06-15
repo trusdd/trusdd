@@ -14,6 +14,14 @@
 
 ---
 
+## ☕ Featured Java Project
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trusdd&repo=java-task-processor&theme=tokyonight)](https://github.com/trusdd/java-task-processor)
+
+---
+
+> Task processor built with Java 17 — part of my Software Engineering journey.
+
 ## 🛠 Technologies & Skills
 
 ### 💻 Frontend (solid)
