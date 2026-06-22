@@ -55,13 +55,30 @@
 
 <div align="center">
 
-### 🧠 Task Processor (Console)
-![Java](https://img.shields.io/badge/Java-Console-007396?style=for-the-badge&logo=java&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-Solid-6DB33F?style=for-the-badge)
-![Algorithms](https://img.shields.io/badge/Algorithms-Basics-FF6F00?style=for-the-badge)
-> A solid foundation: OOP, algorithms, and file I/O.  
-[🔗 View Repository](https://github.com/trusdd/java-task-processor)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/trusdd/java-task-processor">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=trusdd&repo=java-task-processor&theme=tokyonight" />
+      </a>
+      <br>
+      <b>🧠 Task Processor (Console)</b>
+      <br>
+      <sub>OOP, algorithms, file I/O — foundation of my Java journey</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/trusdd/task-manager">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=trusdd&repo=task-manager&theme=tokyonight" />
+      </a>
+      <br>
+      <b>🌐 Task Manager (Spring Boot + JWT)</b>
+      <br>
+      <sub>REST API, security, databases — real-world backend</sub>
+    </td>
+  </tr>
+</table>
 
+</div>
 ---
 
 ### 🌐 Task Manager (Spring Boot + JWT)
