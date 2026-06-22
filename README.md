@@ -42,7 +42,7 @@
 
 ---
 
-## 💻 Frontend Projects (My Foundation)
+## 💻 Frontend Projects 
 
 | Project | Description | Live Demo |
 |---------|-------------|-----------|
