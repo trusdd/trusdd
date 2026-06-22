@@ -4,7 +4,7 @@
 
 ---
 
-## 👨‍💻 About Me — Software Engineering Path
+## 👨‍💻 About Me 
 
 - 📌 **Frontend developer** with a focus on clean, scalable interfaces  
 - ☕ **Deepening Java** — OOP, algorithms, data structures, backend architecture  
@@ -21,7 +21,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-### ⚙️ Backend / Software (in progress)
+### ⚙️ Backend / Software 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
@@ -34,9 +34,11 @@
 - **HTML** — 95%
 - **CSS** — 85%
 - **JavaScript** — 65%
+- **Vue.js** — 35% 
 - **Node.js** — 70%
 - **SQL** — 40%
 - **Java** — 30% (actively learning)
+- **React** — 20% 
 
 ---
 
@@ -51,7 +53,7 @@
 
 ---
 
-## ☕ Java Projects (My Growth Path)
+## ☕ Java Projects 
 
 <div align="center">
 
