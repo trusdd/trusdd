@@ -55,38 +55,9 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/trusdd/java-task-processor">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=trusdd&repo=java-task-processor&theme=tokyonight" />
-      </a>
-      <br>
-      <b>🧠 Task Processor (Console)</b>
-      <br>
-      <sub>OOP, algorithms, file I/O — foundation of my Java journey</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/trusdd/task-manager">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=trusdd&repo=task-manager&theme=tokyonight" />
-      </a>
-      <br>
-      <b>🌐 Task Manager (Spring Boot + JWT)</b>
-      <br>
-      <sub>REST API, security, databases — real-world backend</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
----
-
-### 🌐 Task Manager (Spring Boot + JWT)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-Web-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-Security-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-FF6F00?style=for-the-badge)
-> Building real-world backends: REST API, security, and databases.  
-[🔗 View Repository](https://github.com/trusdd/task-manager)
+| | |
+|---|---|
+| **🧠 Task Processor (Console)**<br><br>![Java](https://img.shields.io/badge/Java-Console-007396?style=flat-square&logo=java&logoColor=white) ![OOP](https://img.shields.io/badge/OOP-Solid-6DB33F?style=flat-square) ![Algorithms](https://img.shields.io/badge/Algorithms-Basics-FF6F00?style=flat-square)<br><br>*A solid foundation: OOP, algorithms, file I/O.*<br><br>[🔗 View Repository →](https://github.com/trusdd/java-task-processor) | **🌐 Task Manager (Spring Boot + JWT)**<br><br>![Spring Boot](https://img.shields.io/badge/Spring_Boot-Web-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-Security-000000?style=flat-square&logo=json-web-tokens&logoColor=white) ![REST API](https://img.shields.io/badge/REST-API-FF6F00?style=flat-square)<br><br>*Building real-world backends: REST API, security, databases.*<br><br>[🔗 View Repository →](https://github.com/trusdd/task-manager) |
 
 </div>
 
