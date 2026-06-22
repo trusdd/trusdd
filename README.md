@@ -14,11 +14,19 @@
 
 ---
 
-## ☕ Featured Java Project
+## ☕ Java Projects
 
+<div align="center">
+
+### 🧠 Task Processor (Console)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trusdd&repo=java-task-processor&theme=tokyonight)](https://github.com/trusdd/java-task-processor)
+*A solid foundation: OOP, algorithms, and file I/O.*
 
-> Task processor built with Java 17 — part of my Software Engineering journey.
+### 🌐 Task Manager (Spring Boot + JWT)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trusdd&repo=task-manager&theme=tokyonight)](https://github.com/trusdd/task-manager)
+*Building real-world backends: REST API, security, and databases.*
+
+</div>
 
 ---
 
