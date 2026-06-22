@@ -51,7 +51,7 @@
 
 ---
 
-## ☕ Java Projects (My Growth Path)
+## ☕ Java Projects
 
 <div align="center">
 
@@ -63,14 +63,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-### Most Used Languages
-
-<img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=trusdd&layout=compact&theme=tokyonight" />
-
 ### Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=trusdd&theme=radical" />
@@ -80,6 +72,15 @@
 ![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 </div>
+
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+### Most Used Languages
+
+<img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=trusdd&layout=compact&theme=tokyonight" />
 
 ---
 
