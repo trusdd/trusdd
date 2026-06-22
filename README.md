@@ -51,7 +51,7 @@
 
 ---
 
-## ☕ Java Projects
+## ☕ Java Projects (My Growth Path)
 
 <div align="center">
 
