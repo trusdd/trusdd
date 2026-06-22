@@ -14,22 +14,6 @@
 
 ---
 
-## ☕ Java Projects
-
-<div align="center">
-
-### 🧠 Task Processor (Console)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trusdd&repo=java-task-processor&theme=tokyonight)](https://github.com/trusdd/java-task-processor)
-*A solid foundation: OOP, algorithms, and file I/O.*
-
-### 🌐 Task Manager (Spring Boot + JWT)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trusdd&repo=task-manager&theme=tokyonight)](https://github.com/trusdd/task-manager)
-*Building real-world backends: REST API, security, and databases.*
-
-</div>
-
----
-
 ## 🛠 Technologies & Skills
 
 ### 💻 Frontend (solid)
@@ -56,7 +40,7 @@
 
 ---
 
-## 💻 Projects That Prove It
+## 💻 Frontend Projects (My Foundation)
 
 | Project | Description | Live Demo |
 |---------|-------------|-----------|
@@ -64,6 +48,30 @@
 | 📱 **ArtPhone** | Online Apple store | [View →](https://trusdd.github.io/artphone-frontend/) |
 | 📊 **Analytics Dashboard** | Real‑time business metrics & admin panel | [View →](https://trusdd.github.io/dashboard/) |
 | 💬 **Citation** | Quotes from great people | [View →](https://trusdd.github.io/citation/) |
+
+---
+
+## ☕ Java Projects (My Growth Path)
+
+<div align="center">
+
+### 🧠 Task Processor (Console)
+![Java](https://img.shields.io/badge/Java-Console-007396?style=for-the-badge&logo=java&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-Solid-6DB33F?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-Basics-FF6F00?style=for-the-badge)
+> A solid foundation: OOP, algorithms, and file I/O.  
+[🔗 View Repository](https://github.com/trusdd/java-task-processor)
+
+---
+
+### 🌐 Task Manager (Spring Boot + JWT)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-Web-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-Security-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-FF6F00?style=for-the-badge)
+> Building real-world backends: REST API, security, and databases.  
+[🔗 View Repository](https://github.com/trusdd/task-manager)
+
+</div>
 
 ---
 
