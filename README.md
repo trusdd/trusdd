@@ -31,14 +31,14 @@
 
 ### ⚡️ Skill Progress
 
-- **HTML** — 95%
-- **CSS** — 85%
-- **JavaScript** — 65%
-- **Vue.js** — 35% 
-- **Node.js** — 70%
+- **HTML** — 100%
+- **CSS** — 100%
+- **JavaScript** — 95%
+- **Vue.js** — 75% 
+- **Node.js** — 85%
 - **SQL** — 40%
-- **Java** — 30% (actively learning)
-- **React** — 20% 
+- **Java** — 50% (actively learning)
+- **React** — 40% 
 
 ---
 
