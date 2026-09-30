@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=trusdd&fontSize=80&fontAlignY=35&animation=fadeIn&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&v=1" alt="Header" />
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&deleteSpeed=300&width=550&lines=Crafting+clean,+scalable+interfaces;Building+robust+Java+backends;Exploring+AI-assisted+development&speed=70&center=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&deleteSpeed=300&width=550&lines=Crafting+clean,+scalable+interfaces;Building+robust+Java+backends;Leveraging+AI-assisted+workflows&speed=70&center=true" alt="Typing SVG" />
 </div>
 
 ## 👨‍💻 About Me 
@@ -33,10 +33,20 @@ I am a **Software Engineer** specializing in frontend development with a strong 
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/1C:Enterprise-FFDD00?style=for-the-badge&logo=1c&logoColor=black" />
 
-<br>**Environment & AI**<br>
+<br>**Tools & Version Control**<br>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Terminal_&_Bash-4D4D4D?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+
+<br>**Environment & AI Workflow**<br>
 <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" />
 <img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black" />
+<img src="https://img.shields.io/badge/Codex-0058A0?style=for-the-badge&logo=openai&logoColor=white" />
 
 </div>
 
@@ -68,7 +78,7 @@ I am a **Software Engineer** specializing in frontend development with a strong 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=trusdd&theme=tokyo-night&hide_border=true&bg_color=0D1117&v=1" width="100%" alt="Activity Graph" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=trusdd&theme=tokyonight&hide_border=true&background=0D1117" width="100%" alt="GitHub Streak" />
 
 <br>
 
