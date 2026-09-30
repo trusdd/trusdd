@@ -1,21 +1,21 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=trusdd&fontSize=80&fontAlignY=35&animation=fadeIn&desc=Software%20Engineer%20%7C%20Frontend%20%26%20Java%20Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=trusdd&fontSize=80&fontAlignY=35&animation=fadeIn&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&v=1" alt="Header" />
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&deleteSpeed=300&width=550&lines=Crafting+clean,+scalable+interfaces;Bridging+Frontend+and+Backend;Building+systems+that+last&speed=70&center=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&deleteSpeed=300&width=550&lines=Crafting+clean,+scalable+interfaces;Building+robust+Java+backends;Exploring+AI-assisted+development&speed=70&center=true" alt="Typing SVG" />
 </div>
 
 ## 👨‍💻 About Me 
 
-I am a **Software Engineer** specializing in frontend development with a strong, growing foundation in Java backend architecture. I love turning complex problems into elegant, responsive user interfaces and robust, scalable backend systems.
+I am a **Software Engineer** specializing in frontend development with a strong foundation in Java backend architecture. I actively combine academic learning with real-world freelance projects and corporate experience.
 
-- 🚀 **Focus:** Building seamless frontend applications and deepening my knowledge in enterprise Java (Spring Boot, Architecture).
+- 🎓 Currently studying **Information Systems and Programming** (Class of 2027).
+- 💼 Working at **T-Bank**, where I also author technical articles for the internal employee blog.
+- 🚀 Delivering freelance full-stack solutions and exploring AI-assisted development workflows.
 - 💡 **Mindset:** Evolving from *"making it work"* to **designing systems that scale and last**.
-- 🌱 **Currently exploring:** Advanced OOP, data structures, algorithms, and microservices.
-- 💬 **Let's talk about:** Frontend architecture, the Java ecosystem, UI/UX, or even poetry!
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack & Tools
 
 <div align="center">
 
@@ -31,6 +31,12 @@ I am a **Software Engineer** specializing in frontend development with a strong,
 <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/1C:Enterprise-FFDD00?style=for-the-badge&logo=1c&logoColor=black" />
+
+<br>**Environment & AI**<br>
+<img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black" />
 
 </div>
 
@@ -62,15 +68,15 @@ I am a **Software Engineer** specializing in frontend development with a strong,
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=trusdd&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=trusdd&theme=tokyo-night&hide_border=true&bg_color=0D1117&v=1" width="100%" alt="Activity Graph" />
 
 <br>
 
-<img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=trusdd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" /> <img src="https://github-readme-stats.vercel.app/api?username=trusdd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+<img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=trusdd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="Top Langs" /> <img src="https://gh-readme-stats.vercel.app/api?username=trusdd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" width="48%" alt="GitHub Stats" />
 
 <br>
 
-![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 
 </div>
 
@@ -85,9 +91,6 @@ I am a **Software Engineer** specializing in frontend development with a strong,
   <a href="https://www.linkedin.com/in/trusdd" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
 </div>
 
 <br>
@@ -96,4 +99,4 @@ I am a **Software Engineer** specializing in frontend development with a strong,
   <i>⚡ Write code that matters. Build interfaces that work. Grow every day.</i>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&v=1" alt="Footer" />
